@@ -1,0 +1,20 @@
+body{
+    background-color: rosybrown;
+    color: moccasin;
+    margin: 100PX; 
+    padding: 100px;
+}
+
+
+
+img{
+    display :block;
+    margin: auto;
+}
+image{
+    display: flex;
+
+}
+
+
+
